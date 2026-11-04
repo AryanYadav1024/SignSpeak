@@ -1,0 +1,103 @@
+[
+  {
+    "id": "thank_you",
+    "label": "Thank you",
+    "aliases": [
+      "thanks",
+      "thank you",
+      "thank you very much",
+      "thanks so much"
+    ],
+    "source": "https://aslsignbank.com/dictionary/gloss/1198.html",
+    "video": "/signs/thank_you.mp4",
+    "notation": "/signs/thank_you.svg"
+  },
+  {
+    "id": "please",
+    "label": "Please",
+    "aliases": [
+      "please"
+    ],
+    "source": "https://aslsignbank.com/dictionary/gloss/527.html",
+    "video": "/signs/please.mp4",
+    "notation": "/signs/please.svg"
+  },
+  {
+    "id": "goodbye",
+    "label": "Goodbye",
+    "aliases": [
+      "goodbye",
+      "good bye",
+      "bye",
+      "bye bye"
+    ],
+    "source": "https://aslsignbank.com/dictionary/gloss/425.html",
+    "video": "/signs/goodbye.mp4",
+    "notation": "/signs/goodbye.svg"
+  },
+  {
+    "id": "hello",
+    "label": "Hello",
+    "aliases": [
+      "hello",
+      "hi",
+      "hey"
+    ],
+    "source": "https://aslsignbank.com/dictionary/gloss/425.html",
+    "video": "/signs/goodbye.mp4",
+    "notation": "/signs/goodbye.svg"
+  },
+  {
+    "id": "yes",
+    "label": "Yes",
+    "aliases": [
+      "yes",
+      "yeah",
+      "yep"
+    ],
+    "source": "https://aslsignbank.com/dictionary/gloss/1472.html",
+    "video": "/signs/yes.mp4",
+    "notation": "/signs/yes.svg"
+  },
+  {
+    "id": "water",
+    "label": "Water",
+    "aliases": [
+      "water"
+    ],
+    "source": "https://aslsignbank.com/dictionary/gloss/1414.html",
+    "video": "/signs/water.mp4",
+    "notation": "/signs/water.svg"
+  },
+  {
+    "id": "eat",
+    "label": "Eat",
+    "aliases": [
+      "eat",
+      "food"
+    ],
+    "source": "https://aslsignbank.com/dictionary/gloss/399.html",
+    "video": "/signs/eat.mp4",
+    "notation": "/signs/eat.svg"
+  },
+  {
+    "id": "good",
+    "label": "Good",
+    "aliases": [
+      "good"
+    ],
+    "source": "https://aslsignbank.com/dictionary/gloss/472.html",
+    "video": "/signs/good.mp4",
+    "notation": "/signs/good.svg"
+  },
+  {
+    "id": "what",
+    "label": "What",
+    "aliases": [
+      "what"
+    ],
+    "source": "https://aslsignbank.com/dictionary/gloss/1425.html",
+    "video": "/signs/what.mp4",
+    "notation": "/signs/what.svg"
+  }
+]

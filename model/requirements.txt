@@ -1,0 +1,1 @@
+signwriting-translation[server] @ git+https://github.com/sign-language-processing/signwriting-translation@f7fe6fd293790e3b20896a13684e13d7f55c2dfc

@@ -1,0 +1,31 @@
+.generated-notation {
+  width: 100%;
+  padding: 50px 18px 22px;
+}
+
+.generated-signs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.generated-signs img {
+  width: 68px;
+  height: 68px;
+  padding: 8px;
+}
+
+.generated-notation figcaption,
+.generated-sign-error {
+  color: var(--muted);
+  font-size: 12px;
+  text-align: center;
+}
+
+.generated-notation figcaption a {
+  color: var(--tint);
+}

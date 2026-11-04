@@ -1,0 +1,38 @@
+SignBridge media credits
+
+Signing videos
+Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin.
+ASL Signbank (2017–2026), https://doi.org/10.6084/m9.figshare.9741788
+Unmodified videos, CC BY-NC-SA 4.0.
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Use conditions: https://aslsignbank.com/about/conditions/
+Thank you: https://aslsignbank.com/dictionary/gloss/1198.html
+Please: https://aslsignbank.com/dictionary/gloss/527.html
+Hello and Goodbye (BYE-BYE wave): https://aslsignbank.com/dictionary/gloss/425.html
+
+Yes: https://aslsignbank.com/dictionary/gloss/1472.html
+Water: https://aslsignbank.com/dictionary/gloss/1414.html
+Eat: https://aslsignbank.com/dictionary/gloss/399.html
+Good: https://aslsignbank.com/dictionary/gloss/472.html
+What: https://aslsignbank.com/dictionary/gloss/1425.html
+
+Notation
+Sutton SignWriting was invented by Valerie Sutton. Graphics were rendered
+from records in the SignPuddle public American Sign Language dictionary.
+Sutton SignWriting permissions: https://www.signwriting.org/archive/docs10/sw0927_Permission_To_Use_SignWriting.pdf
+Thank you: Valerie Sutton, record 7057.
+Please: Charles Butler, record 3488.
+Hello and Goodbye: Valerie Sutton, record 3426.
+Yes: Valerie Sutton, record 2595.
+Water: Natasha Escalada-Westland, record 1135.
+Eat: Vanessa J., record 7615.
+Good: Vanessa J., record 7329.
+What: Valerie Sutton, record 5452.
+Dictionary API: https://signpuddle.com/server/dictionary/ase-US-dictionary-public
+
+Sentence generation
+SignWriting Translation by Amit Moryossef and the sign-language-processing project.
+https://github.com/sign-language-processing/signwriting-translation
+Model: sign/sockeye-text-to-factored-signwriting, CC BY-NC 4.0.
+https://huggingface.co/sign/sockeye-text-to-factored-signwriting
+Generated Formal SignWriting is rendered by the SignPuddle SVG service.
